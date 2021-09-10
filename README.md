@@ -1,12 +1,10 @@
 ### Hi there 👋
 I'm Ali
 
-⚡ Junior Software Engineer
+⚡ Junior Software Developer
 
 ✨
 ✨
-
-
 
 ⚡ I’m currently learning Java, Python, JavaScript and C
 
@@ -15,6 +13,7 @@ I'm Ali
 
 ⚡ Fun fact: Love coding 😄
 
+💬 montanazz415@gmail.com
 <!--
 **aliy0012/aliy0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
