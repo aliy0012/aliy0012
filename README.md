@@ -6,7 +6,7 @@ I'm Ali
 ✨
 ✨
 
-⚡ I’m currently learning Java, Python, JavaScript and C
+⚡ I’m currently learning JavaScript
 
 👯 I’m looking to collaborate on projects
 
