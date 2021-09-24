@@ -6,7 +6,7 @@ I'm Ali
 ✨
 ✨
 
-⚡ I’m currently learning JavaScript
+⚡ I’m currently learning JavaScript and React
 
 👯 I’m looking to collaborate on projects
 
