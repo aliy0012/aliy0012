@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Ali
 
-⚡ Junior Software Developer
+⚡ Software Developer
 
 ✨
 ✨
