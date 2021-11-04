@@ -1,19 +1,20 @@
 ### Hi there 👋
-I'm Ali
 
-⚡ Software Developer
+💻   I'm Ali
+
+⚡ Full Stack Developer
 
 ✨
 ✨
 
-⚡ I’m currently learning JavaScript and React
+⚡ Currently working on React
 
 👯 I’m looking to collaborate on projects
 
-
 ⚡ Fun fact: Love coding 😄
 
-💬 montanazz415@gmail.com
+
+📫  montanazz415@gmail.com
 <!--
 **aliy0012/aliy0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
