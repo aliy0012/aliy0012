@@ -12,7 +12,7 @@
 👯 I’m looking to collaborate on projects
 
 ⚡ Fun fact: Love coding 😄
-
+![](https://github.com/aliy0012/aliy0012/blob/main/gif.gif?raw=true)
 
 📫  montanazz415@gmail.com
 <!--
