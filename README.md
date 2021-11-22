@@ -9,8 +9,6 @@
 
 ⚡ Currently working on React
 
-👯 I’m looking to collaborate on projects
-
 ⚡ Fun fact: Love coding 😄
 
 
