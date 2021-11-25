@@ -12,8 +12,6 @@
 ⚡ Fun fact: Love coding 😄
 
 
-![coding](https://github.com/aliy0012/aliy0012/blob/main/gif.gif?raw=true)
-
 📫  montanazz415@gmail.com
 <!--
 **aliy0012/aliy0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
