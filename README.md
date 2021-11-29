@@ -2,7 +2,7 @@
 
 💻   I'm Ali
 
-⚡ Full Stack Developer
+⚡ Web Developer
 
 ✨
 ✨
