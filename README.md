@@ -2,17 +2,10 @@
 
 💻   I'm Ali
 
-⚡ Web Developer
-
-✨
 ✨
 
-⚡ Currently working on React
+⚡ Learning React
 
-⚡ Fun fact: Love coding 😄
-
-
-📫  montanazz415@gmail.com
 <!--
 **aliy0012/aliy0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
