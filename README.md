@@ -2,7 +2,6 @@
 🔭 I’m currently working on React project<br>
 ---
 
-
 ---
 
 <br>Contact: [linkedin profile](https://www.linkedin.com/in/ali-aliyev012/)
