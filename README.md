@@ -1,12 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on React project<br>
----
-
-
-
-
-
----
 
 ---
 # 💻 Tech Stack:
